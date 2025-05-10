@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portofolio Fajar Arifiansyah Calvin</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fajar Arifiansyah Calvin</h1>
+    <p>Pembuat Web | Pengembang Aplikasi Web</p>
+  </header>
+
+  <section>
+    <h2>Tentang Saya</h2>
+    <p>Saya adalah seorang pembuat web yang berpengalaman dalam menciptakan solusi digital melalui website interaktif dan desain yang responsif. Saya memiliki keahlian dalam HTML, CSS, JavaScript, dan berbagai framework seperti React dan Laravel.</p>
+  </section>
+
+  <section>
+    <h2>Proyek Saya</h2>
+    <ul>
+      <li><strong>Website Toko Online</strong> – Membuat toko online dengan Laravel dan Bootstrap, termasuk sistem pembayaran dan manajemen produk.</li>
+      <li><strong>Portfolio Online</strong> – Website portofolio pribadi dengan HTML, CSS, dan JavaScript, menampilkan proyek-proyek web saya.</li>
+      <li><strong>Blog Dinamis</strong> – Aplikasi blog dengan React, memungkinkan pengguna untuk membuat, mengedit, dan menghapus postingan mereka sendiri.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Kontak</h2>
+    <p>Email: <a href="mailto:fajararifiansyahcalvin@gmail.com">fajararifiansyahcalvin@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/fajararifiansyahcalvin" target="_blank">linkedin.com/in/fajararifiansyahcalvin</a></p>
+  </section>
+</body>
+</html>
